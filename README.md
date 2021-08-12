@@ -31,7 +31,7 @@ program through the GUI; and the program handles the rest and OUTPUTS two (2) di
 records/transactions.
 
 ### Illustration of how program works and is used
-
+<img src="https://github.com/the-pythonist/Accounts-Reconciliation-Software/blob/main/flow_chart.jpg" />
 
 
 
