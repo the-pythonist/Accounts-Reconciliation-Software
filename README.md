@@ -50,7 +50,4 @@ _Even better, I can create a _one-size-fits-all_ program that allows you to defi
 as the Fintech needed some special tailoring with short delivery timeline. Using the _one-size-fits-all_ route would have
 taken more time to create.
 
-
-For you have any questions, enquiries, improvements, or tailoring to the program that you might need,I am only an
-_email_ away.
-- Email: **gadawesome@gmail.com**
+^_^
